@@ -1,0 +1,61 @@
+#summary Chaos
+#labels Phase-Implementation,Phase-Design
+
+TODO (in priority order):
+  * add impostors to clouds
+  * add lightnings
+  * add rain
+
+IDEAS:
+
+Clouds documentation:
+  * [http://en.wikipedia.org/wiki/Thunderstorm Thunderstorm]
+  * [http://en.wikipedia.org/wiki/Cumulonimbus Cumulonimbus]
+
+<img src="http://www.co.dakota.mn.us/NR/rdonlyres/1D48528A-E00B-43E3-AC85-62C87722AFB5/12229/WindyCitySky.jpg">
+
+<a href="http://abduzeedo.com/20-futuristic-3d-scenes">20 futuristic 3d scenes</a>
+
+WORK IN PROGRESS:
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot level 3 - styx pixel art.jpg">
+
+<wiki:video url="http://www.youtube.com/watch?v=d6j0sL6rWlM&fmt=37"/>
+
+<wiki:video url="http://www.youtube.com/watch?v=BfiAypK5TJ8&fmt=37"/>
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot level 3 - sky with clouds 4.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot level 3 - sky with clouds 3.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot level 3 - sky with clouds 2.jpg" width="640" height="480">
+
+A try with a new method based on fragment program!
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot level 3 - sky with clouds flat but fast to render.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%203%20-%20clouds%20more%20realistic%20with%20basic%20shading.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%203%20-%20clouds%20more%20realistic.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%203%20-%20clouds%20at%20sunset%202.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%203%20-%20clouds%20at%20sunset.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%203%20-%20my%20very%20first%20cloud.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot level 3 - atmospheric scattering effect.jpg" width="640" height="480">
+
+
+DONE 2010/12/10:
+  * added light scattering effect
+
+DONE 2010/12/04:
+  * implemented clouds
+
+DONE 2010/11/11:
+  * implemented first cloud
+
+DONE 2010/11/03:
+  * migrated to LWJGL 2.6
+  * implemented atmospheric effect

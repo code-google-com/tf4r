@@ -1,0 +1,137 @@
+#summary New start
+
+TODO (in priority order):
+  * implement transition to level 3
+
+IDEAS:
+  * Prisonner:<br><img src="http://tf4r.googlecode.com/svn/wiki/img/prisonner.jpg">
+
+WORK IN PROGRESS:
+
+<wiki:video url="http://www.youtube.com/watch?v=se9zWIrnsOA&fmt=37"/>
+
+<wiki:video url="http://www.youtube.com/watch?v=mf7RvwmdgO0&fmt=37"/>
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20boss%202.jpg" width="640" height="480">
+
+<wiki:video url="http://www.youtube.com/watch?v=ojnTu5p00bc&fmt=37"/>
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20boss%201.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20under%20unknown%20attack.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20pursuit%201%20test.jpg" width="640" height="480">
+
+<wiki:video url="http://www.youtube.com/watch?v=szSsGfHA2NM&fmt=37"/>
+
+<wiki:video url="http://www.youtube.com/watch?v=E2gvIVcwIqw"/>
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%2011.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%209.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%208.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%207.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%206.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%205.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%204.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%203.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor%202.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%202%20-%20pirats%20hq%20corridor.jpg" width="640" height="480">
+
+DONE 2010/08/10:
+  * added more corridor doors! (random sometimes)
+  * added message box to ask for confirmation when ESC pressed
+  * added new features inside game.properties for easy testing ;)
+  * added new key actions for easy testing ;)
+  * implemented OBJ and MTL 3D files loading and rendering :) (Thanks to ocmpadm0 !!!)
+
+DONE 2010/08/09:
+  * implemented Styx TF3 weapons
+  * added weapon enhancers
+  * now free loaded textures
+  * added more corridor doors!
+  * now sounds pause also during PAUSED game
+  * added cool looking nebula as background for pirats pursuit
+
+DONE 2010/08/08:
+  * implemented Styx Sever weapon (laser enhancement of twin shot) for claws
+  * corrected bug related to face culling and glScalef
+  * implemented Styx Twin Shot weapon for claws
+  * drecreased fog effect
+  * added space pirats generators for the pursuit
+
+DONE 2010/08/06:
+  * added basic polished metal texture
+  * implemented Styx Sever weapon (laser enhancement of twin shot)
+  * corrected major bug regarding weapon spawning/unspawning after player destruction
+
+DONE 2010/08/05:
+  * added moving 3D doors
+  * added danger signs
+  * added speed to information panel
+  * added final door
+
+DONE 2010/07/20:
+  * finished corridors
+
+DONE 2010/07/19:
+  * finished space pirats pursuit music (omake-5)
+
+DONE 2010/06/30:
+  * corrected issue #5
+
+DONE 2010/06/25:
+  * improved PAUSE action (to pause/resume playing music)
+
+DONE 2010/06/18:
+  * add lights
+  * finished corridor borders
+
+DONE 2010/06/17:
+  * implemented icons for windowed mode
+
+DONE 2010/06/16:
+  * optimized perfect pixel collision detection for 2D/3D entities (added borders for 3D corridor pieces)
+
+DONE 2010/06/15:
+  * implemented 50% of the corridor
+
+DONE 2010/06/14:
+  * implemented Styx TF3 twin shot
+
+DONE 2010/06/13:
+  * worked on balance against corridor travel speed and ship speed
+
+DONE 2010/06/12:
+  * optimized perfect pixel collision detection for 2D entity against 3D entities with scissors on 2D entity
+
+DONE 2010/06/11:
+  * implemented perfect pixel collision detection for 2D entity against 3D entities
+
+DONE 2010/06/09:
+  * implemented corridor pieces
+
+DONE 2010/06/09:
+  * studied 3D backgrounds for TF4
+
+DONE 2010/06/03:
+  * implemented Styx take-off
+  * studied 3D background corridors ala Gradius V
+
+DONE 2010/06/02:
+  * continued intro (docks)
+  * added "Rock" EQ for MP3 files
+
+DONE 2010/06/01:
+  * implemented Styx ship (TF4 version)
+
+DONE 2010/05/31:
+  * implemented intro (someone in jail)

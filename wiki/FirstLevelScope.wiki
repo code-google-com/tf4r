@@ -1,0 +1,142 @@
+#summary Kept very small ;)
+
+TODO:
+  * implement information panel
+  * adapt diffculty according to the mission level
+
+IDEAS:
+  * Asteroids collisions side-effect: http://www.euclideanspace.com/physics/dynamics/collision/twod/index.htm
+
+  * For asteroid field:<br>
+<img src="http://www.satelliteinternet.com/news/wp-content/uploads/2009/12/05-Asteroids.jpg">
+
+WORK IN PROGRESS:
+
+<wiki:video url="http://www.youtube.com/watch?v=1KBs0ba_iZE"/>
+
+<wiki:video url="http://www.youtube.com/watch?v=7rUUIMwOK4A"/>
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%201%20-%20asteroid%20field%205.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%201%20-%20asteroid%20field%204.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%201%20-%20asteroid%20field%203.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%201%20-%20asteroid%20field%202.jpg" width="640" height="480">
+
+<img src="http://tf4r.googlecode.com/svn/wiki/img/screenshot%20level%201%20-%20asteroid%20field.jpg" width="640" height="480">
+
+DONE 2010/08/03:
+  * adapted difficulty to mission level
+
+DONE 2010/06/24:
+  * corrected [http://code.google.com/p/tf4r/issues/detail?id=1 issue #1]
+
+DONE 2010/06/08:
+  * corrected [http://code.google.com/p/tf4r/issues/detail?id=2 issue #2]
+
+DONE 2010/06/05:
+  * corrected minor bugs for game over sequence
+  * optimized mp3 music loading through local disk cache
+  * allow to skip the intro of this level
+  * corrected ENTER key listener on game start screen
+  * made big asteroids in front transparent
+
+DONE 2010/05/31:
+  * changed blinking effect when ship revives (transparency)
+  * better explosion pattern when ship destroyed
+  * refilled escape capsule shield when ship revives
+
+DONE 2010/05/29:
+  * allowed to restart game
+
+DONE 2010/05/28:
+  * changed fire key: RIGHT SHIFT => C
+  * implemented asteroids explosions (smoke)
+  * reduced volume for some sound effects
+  * accelerated some intro parts
+
+DONE 2010/05/27:
+  * generated the first video on youtube
+  * added game.properties support for HTTP proxy setup
+  * implemented scrollable viewport feature ala TF4
+  * reduced screen to 640x480
+  * implemented black fade out effect for the end of the level
+
+DONE 2010/05/26:
+  * finished pirats headquarter design
+  * optimized star field to prevent garbage collection
+
+DONE 2010/05/23:
+  * designed pirats headquarter
+
+DONE 2010/05/21:
+  * improved asteroids generator using a pool of asteroids to avoid garbage collection
+
+DONE 2010/05/20:
+  * made spiders fire laser beams
+
+DONE 2010/05/19:
+  * resized screen to 800x600
+
+DONE 2010/05/17-18:
+  * studied ARB point sprites (benchmark developped to test on different configurations)
+
+DONE 2010/05/13:
+  * added escape capsule mini reactor
+  * added spiders walking on asteroids
+
+DONE 2010/05/12:
+  * corrected minor bugs (entities ratio related)
+
+DONE 2010/05/11:
+  * added window with text displaying while the navy voice is reading it
+
+DONE 2010/05/10:
+  * added asteroids belt
+  * added big asteroids in frontground
+
+DONE 2010/05/09:
+  * prepare level intro directly from TF4 ending
+  * packaged TF4R for windows
+  * corrected bugs related to deployment/game part downloading
+  * added level scenes concept
+  * optimized asteroid textures loading
+
+DONE 2010/05/07:
+  * prepared level intro pictures
+  * added asteroid field rock (stressing) music
+  * added planet
+  * optimized star field parallax scrolling
+  * enhanced asteroid field generator (more realistic and more kamikaze!)
+
+DONE 2010/05/06:
+  * reduced scissor area for collision detection
+  * moved from direct mode to VBOs
+  * changed push/load identity/pop to load identity
+
+DONE 2010/05/05:
+  * implement star field background parallax scrolling
+
+DONE 2010/05/03:
+  * implemented scissors+stencil+occlusion query for pixel perfect collision detection  
+
+DONE 2010/04/30:
+  * started scissors+stencil+occlusion query for accurate collision detection
+  * implemented asteroid generator
+
+DONE 2010/04/29:
+  * created 4 animated asteroids
+  * added support for non power of 2 textures (scaling with JAI or repeating texture parts)
+  * added support for animated entities with less than cols x rows animation frames
+  * implemented partial music looping for .mp3 files
+
+DONE 2010/04/28:
+  * corrected ship animations
+  * implemented partial music looping for .wav files
+  * integrated freetts
+
+DONE 2010/04/27:
+  * implemented "ridiculous" escape capsule ship
+  * implemented temporarily activable shield (including sounds)
+  * found asteroids textures

@@ -1,0 +1,50 @@
+#summary Links useful (technical specifications, tutorials...)
+
+= Music and sound =
+
+== OpenAL ==
+  * [http://connect.creativelabs.com/openal/Documentation/OpenAL%201.1%20Specification.htm OpenAL 1.1 specification]
+
+== MP3 ==
+  * [http://www.javazoom.net/javalayer/javalayer.html MP3 library for the Java(tm) Platform]
+
+== Text to speech ==
+  * [http://freetts.sourceforge.net/docs/index.php A speech synthesizer written entirely in the Java programming language]
+
+= Graphic =
+
+== OpenGL ==
+  * [http://www.realtech-vr.com/glview/download.html RealTech's free OpenGL Extensions Viewer]
+  * [http://lwjgl.org/ Lightweight Java Game Library] (also for OpenAL Java binding)
+  * [http://glprogramming.com/red/chapter10.html OpenGL Framebuffer] (*a must to read*)
+  * [http://www.vterrain.org/ Great collection of articles and sources!]
+  * [http://www.flipcode.com/archives/Advanced_OpenGL_Texture_Mapping.shtml Advanced texture mapping]
+  * [http://nis-lab.is.s.u-tokyo.ac.jp/~nis/cdrom/pg/pg01_lightning.pdf Rendering of Lightning]
+  * [http://nis-lab.is.s.u-tokyo.ac.jp/~nis/cdrom/pg/PG2001_ryomiya.pdf Rendering clouds]
+  * [http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-funandgames.html Particle systems]
+  * [http://www.opengl.org/resources/code/samples/glut_examples/advanced/textile.c Texture tiling]
+
+== 3D ==
+  * [http://www.3d-palace.com/ 3D Learning]
+  * [http://www.gamedev.net/reference/art/features/howtoPartFx/ particle effects]
+
+== Pixelart ==
+  * [http://www.natomic.com/hosted/marks/mpat/ Mark's Pixel Art Tutorial]
+
+== Image processing ==
+  * [https://jai.dev.java.net/ Java(tm) Advanced Imaging]
+  * [http://www.fraps.com/ Realtime Video Capture Software] (up to 100fps, great for screen captures at 75Hz)
+
+== Video ==
+  * [http://www.reelseo.com/youtube-hd-update/ How to upload video in HD to Youtube?]
+  * [http://en.wikipedia.org/wiki/YouTube#Quality_and_codecs fmt codes for youtube]
+
+= SHMUPS =
+
+  * [http://www.locomalito.com/juegos_hydorah.php Hydorah]
+
+== Infos ==
+
+  * [http://forum.shmup.com/viewtopic.php?f=29&t=12810 SHMUP forum]
+  * [http://shmups.system11.org/viewtopic.php?f=9&t=31393 SHMUP forum]
+  * [http://waxingerratic.wordpress.com/2010/06/10/2d-forever-thunder-force-iv-returns/ some Ad?]
