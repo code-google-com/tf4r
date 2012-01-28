@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{6ABC2463-6BFA-BF35-BA24-360E334B02D2}") = "tf4runity3d", "Assembly-CSharp-firstpass.csproj", "{CE7A477F-E57D-DF43-52E0-0D977DAC7087}"
+EndProject
+Project("{6ABC2463-6BFA-BF35-BA24-360E334B02D2}") = "tf4runity3d", "Assembly-CSharp.csproj", "{2021F15A-6DF4-28B8-3147-C6E57DD841CD}"
+EndProject
+Project("{6ABC2463-6BFA-BF35-BA24-360E334B02D2}") = "tf4runity3d", "Assembly-UnityScript-firstpass.unityproj", "{C8084040-6B85-742E-6EAB-4B32D19AB86A}"
+EndProject
+Project("{6ABC2463-6BFA-BF35-BA24-360E334B02D2}") = "tf4runity3d", "Assembly-UnityScript.unityproj", "{EC19FD95-EE84-A960-CEA7-E6896796B8EC}"
+EndProject
+Project("{6ABC2463-6BFA-BF35-BA24-360E334B02D2}") = "tf4runity3d", "Assembly-UnityScript-Editor-firstpass.unityproj", "{82F4C87F-DEA5-4BE9-A2C7-A4D5135475E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7A477F-E57D-DF43-52E0-0D977DAC7087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7A477F-E57D-DF43-52E0-0D977DAC7087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7A477F-E57D-DF43-52E0-0D977DAC7087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7A477F-E57D-DF43-52E0-0D977DAC7087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2021F15A-6DF4-28B8-3147-C6E57DD841CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2021F15A-6DF4-28B8-3147-C6E57DD841CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2021F15A-6DF4-28B8-3147-C6E57DD841CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2021F15A-6DF4-28B8-3147-C6E57DD841CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8084040-6B85-742E-6EAB-4B32D19AB86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8084040-6B85-742E-6EAB-4B32D19AB86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8084040-6B85-742E-6EAB-4B32D19AB86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8084040-6B85-742E-6EAB-4B32D19AB86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC19FD95-EE84-A960-CEA7-E6896796B8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC19FD95-EE84-A960-CEA7-E6896796B8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC19FD95-EE84-A960-CEA7-E6896796B8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC19FD95-EE84-A960-CEA7-E6896796B8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F4C87F-DEA5-4BE9-A2C7-A4D5135475E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F4C87F-DEA5-4BE9-A2C7-A4D5135475E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F4C87F-DEA5-4BE9-A2C7-A4D5135475E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F4C87F-DEA5-4BE9-A2C7-A4D5135475E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-UnityScript.unityproj
+	EndGlobalSection
+
+EndGlobal

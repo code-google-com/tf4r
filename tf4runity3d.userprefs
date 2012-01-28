@@ -1,0 +1,22 @@
+﻿<Properties>
+  <AuthorInfo Name="Wondersonic" Email="wondersonic@gmail.com" Copyright="Recyclers" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IntroductionLevel\Script\PressReturnKeyAction.cs">
+    <Files>
+      <File FileName="Assets\IntroductionLevel\Script\PressReturnKeyAction.cs" Line="9" Column="27" />
+      <File FileName="Assets\EscapeLevel\Script\Shader\star-1.shader" Line="24" Column="17" />
+      <File FileName="Assets\IntroductionLevel\Script\ThunderForceRadialBlur.cs" Line="28" Column="25" />
+      <File FileName="Assets\IntroductionLevel\Script\IVRadialBlur.cs" Line="32" Column="1" />
+      <File FileName="Assets\IntroductionLevel\Script\RebirthRadialBlur.cs" Line="32" Column="115" />
+      <File FileName="Assets\IntroductionLevel\Script\Startup script.js" Line="1" Column="1" />
+      <File FileName="Assets\IntroductionLevel\Script\title screen appear.js" Line="6" Column="22" />
+      <File FileName="Assets\IntroductionLevel\Script\To be continued scroller and appear.js" Line="12" Column="57" />
+      <File FileName="Assets\IntroductionLevel\Script\Shader\Unlit-Normal-noblend.shader" Line="20" Column="6" />
+      <File FileName="Assets\EscapeLevel\Script\scrollStarfield.cs" Line="17" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
