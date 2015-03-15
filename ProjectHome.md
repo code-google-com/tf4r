@@ -1,0 +1,3 @@
+A tribute to Thunder Force games...
+
+<img src='http://tf4r.googlecode.com/svn/wiki/img/screenshot%20title.jpg' width='640' height='480'>
